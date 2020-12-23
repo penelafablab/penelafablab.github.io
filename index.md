@@ -1,5 +1,3 @@
-Hello World
-
 # Software online
 
 ### Aqui segue uma lista de software util e online para design
