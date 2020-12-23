@@ -16,4 +16,6 @@ Unidades base mm
 deixar os outros
 Funciona sempre 
 
+No sublime usa shift + cmd + p e depois preview markdown
+
 Aqui podes ver o [Readme](./README.md)
